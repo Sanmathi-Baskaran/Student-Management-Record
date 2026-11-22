@@ -1,1 +1,2 @@
-# Student-Management-Record
+# Student-Record-system
+Student Record Project Using C
